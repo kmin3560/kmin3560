@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1> :ribbon: Hi there :ribbon: </h1>
+## :ribbon: Hi there :ribbon: </h1>
 </br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF99C3&title_bg=%23FF5898&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -9,7 +9,7 @@
 
 </div>
 
-<h3 align="center"> :fire: Tech stack  :fire: </h3>
+<h2 align="center"> :fire: Tech stack  :fire: </h2>
 
 <p align="center" >
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white" /> &nbsp
