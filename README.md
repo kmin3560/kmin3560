@@ -7,7 +7,7 @@
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/m_zzo__/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="mailto:quf8093@gmail.com">
+<a href="mailto:min3560@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:min3560@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
@@ -27,8 +27,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> &nbsp  
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> &nbsp 
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> &nbsp 
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/> &nbsp <br />
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white"/> &nbsp <br />
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> &nbsp
-      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> &nbsp
-  
+    <a href="https://github.com/kmin3560">  
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/kmin3560"/> &nbsp
+  </a>
 </p>
