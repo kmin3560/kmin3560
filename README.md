@@ -21,7 +21,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <p align="center" >
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" /> &nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> &nbsp 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> &nbsp  <br />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> &nbsp  
