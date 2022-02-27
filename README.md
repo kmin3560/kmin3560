@@ -3,8 +3,8 @@
 ## :ribbon: Hi there :ribbon:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmin3560%2Fhit-counter&count_bg=%23FF99C3&title_bg=%23FF5898&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-<a href="https://www.instagram.com/m_zzo__/">
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/m._./"
+<a href="https://www.instagram.com/m._.thd/">
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/m._.thd/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="mailto:min3560@gmail.com">
